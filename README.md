@@ -3,7 +3,7 @@
 Welcome to uBlog React - A Modern Personal Microblogging Platform!
 Note: this is still a work in progress - stay tuned for updates!
 
-[🌐 View Live Website]([https://](https://github.com/hblake3/ReactBlog)
+[🌐 View Live Website](https://github.com/hblake3/ReactBlog)
 
 ## 🌟 Features
 
